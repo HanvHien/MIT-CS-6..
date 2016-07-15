@@ -1,0 +1,780 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"format	function"
+			],
+			[
+				"comp",
+				"compPlayHand	function"
+			],
+			[
+				"userInput",
+				"userInput2	statement"
+			],
+			[
+				"user",
+				"userInput2	statement"
+			],
+			[
+				"copy",
+				"copyHand	statement"
+			],
+			[
+				"ps",
+				"ps4b	module"
+			],
+			[
+				"get",
+				"getWordScore	function"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"hand",
+				"HAND_SIZE	statement"
+			],
+			[
+				"deal",
+				"dealHand	function"
+			],
+			[
+				"updated",
+				"updateHand	function"
+			],
+			[
+				"total",
+				"totalScore	statement"
+			],
+			[
+				"word",
+				"wordList	statement"
+			],
+			[
+				"letters",
+				"lettersGuessed	param"
+			],
+			[
+				"letter",
+				"lettersGuessed	statement"
+			],
+			[
+				"secretwrd",
+				"secretWord	param"
+			],
+			[
+				"f",
+				"find	function"
+			],
+			[
+				"le",
+				"len	function"
+			],
+			[
+				"ret",
+				"return	keyword"
+			],
+			[
+				"how",
+				"howMany	function"
+			],
+			[
+				"Monthly_un",
+				"Monthly_payment_lower_bound	statement"
+			],
+			[
+				"Monthly",
+				"Monthly_payment_upper_bound	statement"
+			],
+			[
+				"m",
+				"MonthlyInterest	statement"
+			],
+			[
+				"count_",
+				"count_Salad	statement"
+			],
+			[
+				"isal",
+				"isalpha	function"
+			],
+			[
+				"rand",
+				"randint	function"
+			],
+			[
+				"fr",
+				"from_object	function"
+			],
+			[
+				"c",
+				"count	function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lecture_9/linearSearch.py",
+			"settings":
+			{
+				"buffer_size": 235,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lecture_9/program1.py",
+			"settings":
+			{
+				"buffer_size": 185,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Han/Desktop/GitHubLog.txt",
+			"settings":
+			{
+				"buffer_size": 22185,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Anaconda Python Builder",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: docStr"
+			],
+			[
+				"Snippet: doc",
+				"Snippet: docStr"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"packageSync",
+				"PackageSync: Sync Online - Define Online Sync Folder"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem p",
+				"Package Control: Remove Package"
+			],
+			[
+				"t",
+				"Toggle Comment"
+			],
+			[
+				"sn m",
+				"Snippet: main()"
+			],
+			[
+				"k",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"paint",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"new b",
+				"Build: New Build System"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"select",
+				"Bookmarks: Select All"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"s",
+				"SublimeREPL: Python"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"b",
+				"Build: Build"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 304.0,
+		"history":
+		[
+			"exit",
+			"quit",
+			"os.kill(pid, signal.SIGINT)",
+			"QUIT",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Users/Han/Documents/Courses/MIT_CS"
+	],
+	"file_history":
+	[
+		"/D/Users/Han/Documents/Courses/MIT_CS/Quiz_1/satisfiesF.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/Quiz_1/dict_interdiff1.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/Quiz_1/dict_interdiff.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/Quiz_1/dict_interdiff2.py",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/SideBarFolders/Side Bar Folders.sublime-settings",
+		"/D/Users/Han/Documents/Courses/MIT_CS/Quiz_1/flatten.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/Quiz_1/dotProduct.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/Quiz_1/isPalindrome.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_4/nfruits.py",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/docStr.sublime-snippet",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_3/ndigits.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_4/ps4b.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_4/testComp.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_4/test_ps4a.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_4/updateHand.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_4/testisValid.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_4/playhand.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_4/ps4a.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_8/SimpleDivide.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_8/l8_problem_4.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_8/l8_problem_4_1.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_8/FancyDivide.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_8/FancyDivide3.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_8/FancyDivide4.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_8/FancyDivide5.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_3/testinput.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_3/hangman.py",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/D/Users/Han/Documents/Courses/MIT_CS/MITCS.sublime-project",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_3/raw.py",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/DevSync.sublime-settings",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/PackageSync/PackageSync.sublime-settings",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_3/getAvailableLetters.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_3/getGuessedWord.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_3/isWordGuessed.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_6/nDigits.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_3/radiationExposure.py",
+		"/D/Users/Han/Documents/Python Scripts/riemann.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_6/biggest.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_6/testDict.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_6/howmany.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_6/oddTuples.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_5/semordnlap.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_5/lenIter.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_5/lenRecur.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_5/test.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_5/isIn.py",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_5/iterPower.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_5/recurPower.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_5/recurPowerNew.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_5/gcdIter.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/lecture_5/gcdRecurs.py",
+		"/D/Users/Han/Documents/Courses/MIT_CS/path.py",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime_theme",
+		"/D/Users/Han/Documents/Courses/MIT_CS/problemset_2/PayingOneYearBS.py",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime_theme.txt",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/Defaul.sublime_theme.txt",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar Folders.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Packages/OCaml.sublime-package",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/Monokai (SublimePythonIDE).tmTheme",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/D/Users/Han/Documents/Courses/MIT_CS/simple.py",
+		"/D/Users/Han/Documents/Courses/MIT CS/path.py",
+		"/D/Users/Han/Documents/Courses/MIT CS/problemset_2/hilo.py",
+		"/D/Users/Han/Documents/Courses/MIT CS/problemset_2/PayingOneYearBS.py",
+		"/C/Users/Han/.jupyter/jupyter_qtconsole_config.py",
+		"/C/Users/Han/.ipython/profile_default/ipython_qtconsole_config.py",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/SublimePython.sublime-settings",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/SublimePythonIDE/SublimePython.sublime-settings",
+		"/D/Users/Han/Documents/Courses/MIT CS/MITCS.sublime-project",
+		"/D/Users/Han/Documents/Courses/MIT CS/problemset_2/PayingOneYear.py",
+		"/D/Users/Han/Documents/Courses/MIT CS/problemset_2/payingminimum.py",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/print.sublime-snippet",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/test.sublime-snippet",
+		"/D/Users/Han/Documents/Courses/MIT CS/lecture_3",
+		"/D/Users/Han/Documents/Courses/MIT CS/problemset_1/countandgroup.py",
+		"/D/Users/Han/Documents/Courses/MIT CS/problem set 1/countandgroup.py",
+		"/D/Users/Han/Documents/Courses/MIT CS/problem set 1/countingBobs.py",
+		"/D/Users/Han/Documents/Courses/MIT CS/polysum.py",
+		"/D/Users/Han/Documents/Courses/MIT CS/problem set 1/countvowels.py",
+		"/D/Users/Han/Documents/Courses/MIT CS/l3p9.py",
+		"/D/Users/Han/Documents/Courses/MIT CS/l3p3.py",
+		"/D/Users/Han/Documents/Courses/MIT CS/l3p5.py",
+		"/D/Users/Han/Documents/Courses/MIT CS/l3p8.py",
+		"/D/Users/Han/Documents/Courses/MIT CS/path.txt",
+		"/D/Users/Han/Documents/Courses/MIT CS/l3test.py",
+		"/D/Users/Han/Documents/Python Scripts/mario.py",
+		"/D/Users/Han/Documents/Python Scripts/tect.c",
+		"/D/Users/Han/Documents/Python Scripts/test.py",
+		"/D/Users/Han/Documents/Python Scripts/hussel.py",
+		"/D/Users/Han/Documents/Python Scripts/vingere.py",
+		"/D/Users/Han/Documents/Python Scripts/testarg.py",
+		"/D/Users/Han/Documents/Python Scripts/Various Scripts.sublime-project",
+		"/D/Users/Han/Documents/Python Scripts/a",
+		"/D/Users/Han/Documents/Python Scripts/pynetstat.py",
+		"/D/Users/Han/Documents/IPython Notebooks/Machine learning/test",
+		"/D/Users/Han/Documents/GitHub/IPython-notebook-extensions/setup.py",
+		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/Percolate/src/Percolate/Percolation.java",
+		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/Percolate/src/Percolate/Main.java",
+		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/Percolate/src/Percolate/Percolates.java",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/Javatar/Default (Windows).sublime-keymap",
+		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/Percolate/src/Percolate/Percolate/Percolation.java",
+		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/Percolate/Percolate.sublime-project",
+		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/JavatarDemo/src/javatar/simple/demo/Main.java",
+		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/algoritms.sublime-project",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/Javatar.sublime-settings",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/Javatar/Javatar.sublime-settings",
+		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/JavatarDemo/src/javatar/simple/demo/TestAlgs4.java",
+		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/lib/algs4/java-algs4.bat",
+		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/JavatarDemo/src/javatar/simple/demo/HelloWorld.java",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Installed Packages/Javatar.sublime-package",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/JavaSE8.javatar-packages",
+		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/lib/path",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/Javatar/README.md",
+		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/algs4/java-algs4.bat",
+		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/Javatar/Developers/Proto.javatar-packages",
+		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/algs4/test.bat",
+		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/padje.txt",
+		"/D/Program Files/Sublime Text 3/Packages/Java.sublime-package",
+		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/test"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"S[",
+			"S[0]",
+			"S",
+			"s",
+			"        \n",
+			">>>",
+			"dictCopy",
+			"word",
+			"Word",
+			"word",
+			"retval",
+			"dictCopy",
+			"word",
+			"print",
+			"result",
+			"            ",
+			";",
+			"}\n",
+			"radiationExposure",
+			"animals",
+			"2",
+			"gcdIter",
+			"fixedMonthlyPayment",
+			"statusbar",
+			"Monthly_payment_upper_bound",
+			"onthly_payment_lower_bound",
+			"editor",
+			"E501",
+			"fixedMonthlyPayment",
+			"previousBalance",
+			"fixedMonthlyPayment",
+			"    /*",
+			"\n    ",
+			"\\n",
+			"^",
+			"]",
+			"\\n",
+			"^",
+			"\\n",
+			"^",
+			"C",
+			"^",
+			"-",
+			" ",
+			"^",
+			"-",
+			"5",
+			"^",
+			"5",
+			"^",
+			"5",
+			"\\s",
+			"print_id()",
+			"quw.id",
+			"^",
+			" ^",
+			"\\-",
+			"\\s",
+			" ",
+			"\\s",
+			"^",
+			"1",
+			"\\-",
+			"^",
+			"Response",
+			"$ flask\\Scripts\\",
+			"c.NotebookManager.notebook_dir",
+			"\\. ",
+			"\\n",
+			"st",
+			"      var canvas = document.getElementById('myCanvas');\n      var context = canvas.getContext('2d');\n",
+			"ctx",
+			"|",
+			"	",
+			"\n|------------|----------|",
+			"|------------|----------|\n",
+			"View",
+			"Honda",
+			"Honda Belgium",
+			"Tex:",
+			"</code>",
+			"<code>",
+			"{1}^{15}",
+			"{14}",
+			"9y+5",
+			"9y",
+			"9y+5",
+			"8y",
+			"\\\\",
+			" \")",
+			"()",
+			"BE",
+			"c.NotebookManager.notebook_dir"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			";\\n",
+			" ",
+			"]\\n",
+			"quw.union(",
+			",",
+			"\\n",
+			",",
+			"\\n",
+			",",
+			"\\n",
+			",",
+			"\\.\\n",
+			" ",
+			"{2}^{14}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lecture_9/linearSearch.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lecture_9/program1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Han/Desktop/GitHubLog.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1938.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 285.0
+	},
+	"output.find_results":
+	{
+		"height": 142.0
+	},
+	"output.rope_python_documentation":
+	{
+		"height": 235.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "MITCS.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Users\\Han\\Documents\\Python Scripts\\Various Scripts.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

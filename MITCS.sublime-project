@@ -1,0 +1,25 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"d:\\anaconda\\python\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"problemset_4/ProblemSet4.zip"
+			],
+			"path": "D:\\Users\\Han\\Documents\\Courses\\MIT_CS"
+		}
+	],
+	"settings":
+	{
+		"python_interpreter": "d:\\anaconda\\python"
+	}
+}
