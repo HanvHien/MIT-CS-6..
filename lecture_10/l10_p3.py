@@ -22,14 +22,36 @@ def search3(L, e):
     else:
         return search3(L[1:], e)
 
+def newsearch(L, e):
+    size = len(L)
+    for i in range(size):
+        if L[size-i-1] == e:
+            return True
+        if L[i] < e:
+            return False
+    return False
+
 print search([0, 1, 2, 3, 4], 2)
-print search([0, 1, 2, 3, 4], 5)
+print search([0, 1, 2, 3, 4], 4)
+print
+
 print search([], 2)
+print search([0], 2)
+print search([0,1], 2)
+print search([0,1,2], 2)
 
-print search2([0, 1, 2, 3, 4], 2)
-print search2([0, 1, 2, 3, 4], 5)
-print search2([], 2) 
+#print search2([0, 1, 2, 3, 4], 2)
+#print search2([0, 1, 2, 3, 4], 5)
+#print search2([], 2) 
 
-print search3([0, 1, 2, 3, 4], 2)
-print search3([0, 1, 2, 3, 4], 4)
-print search3([], 2)
+#print search3([0, 1, 2, 3, 4], 2)
+#print search3([0, 1, 2, 3, 4], 4)
+#print search3([], 2)
+print
+print newsearch([0, 1, 2, 3, 4], 2)
+print newsearch([0, 1, 2, 3, 4], 4)
+print
+print newsearch([], 2)
+print newsearch([0], 2)
+print newsearch([0,1], 2)
+print newsearch([0,1,2], 2)

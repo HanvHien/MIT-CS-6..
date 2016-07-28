@@ -4,6 +4,282 @@
 		"selected_items":
 		[
 			[
+				"all",
+				"allergie	statement"
+			],
+			[
+				"alle",
+				"allergic_species	statement"
+			],
+			[
+				"al",
+				"Allergic"
+			],
+			[
+				"a",
+				"allergic_species	statement"
+			],
+			[
+				"adop",
+				"adoption_center"
+			],
+			[
+				"g",
+				"get_score"
+			],
+			[
+				"Fae",
+				"Flearful"
+			],
+			[
+				"sc",
+				"score_desired	statement"
+			],
+			[
+				"other",
+				"other_animals	statement"
+			],
+			[
+				"get",
+				"get_score"
+			],
+			[
+				"fl",
+				"flex	statement"
+			],
+			[
+				"get_",
+				"get_name"
+			],
+			[
+				"co",
+				"considered	statement"
+			],
+			[
+				"de",
+				"desired	statement"
+			],
+			[
+				"ac",
+				"ac_name	statement"
+			],
+			[
+				"ge",
+				"get_number_of_species"
+			],
+			[
+				"get_n",
+				"get_number_of_species"
+			],
+			[
+				"ot",
+				"other_animals	statement"
+			],
+			[
+				"oth",
+				"other_animals"
+			],
+			[
+				"con",
+				"considered_species	statement"
+			],
+			[
+				"feare",
+				"feared_species"
+			],
+			[
+				"ad",
+				"adoption_center	param"
+			],
+			[
+				"fea",
+				"feared_species	statement"
+			],
+			[
+				"fe",
+				"feared_species"
+			],
+			[
+				"sor",
+				"score_desired	statement"
+			],
+			[
+				"__i",
+				"__init__"
+			],
+			[
+				"des",
+				"desired_species	statement"
+			],
+			[
+				"desi",
+				"desired_species	param"
+			],
+			[
+				"lo",
+				"location	param"
+			],
+			[
+				"ret",
+				"retVal"
+			],
+			[
+				"st",
+				"stCopy"
+			],
+			[
+				"spe",
+				"species_types	statement"
+			],
+			[
+				"dec",
+				"decrypt_story	function"
+			],
+			[
+				"C",
+				"CiphertextMessage	class"
+			],
+			[
+				"cipher",
+				"ciphertext	statement"
+			],
+			[
+				"max",
+				"maxVal	statement"
+			],
+			[
+				"mes",
+				"mesDict	statement"
+			],
+			[
+				"message",
+				"message_counter	statement"
+			],
+			[
+				"s",
+				"self	param"
+			],
+			[
+				"bes",
+				"best_shift	statement"
+			],
+			[
+				"best",
+				"best_shift"
+			],
+			[
+				"be",
+				"bestShift	statement"
+			],
+			[
+				"mess",
+				"message_counter	statement"
+			],
+			[
+				"WE",
+				"WORDLIST_FILENAME	statement"
+			],
+			[
+				"ma",
+				"message_text_encrypted"
+			],
+			[
+				"ch",
+				"change_shift"
+			],
+			[
+				"valid",
+				"valid_words	statement"
+			],
+			[
+				"shift",
+				"shift	param"
+			],
+			[
+				"sift",
+				"shift	statement"
+			],
+			[
+				"ap",
+				"apply_shift	function"
+			],
+			[
+				"b",
+				"build_shift_dict	function"
+			],
+			[
+				"v",
+				"valid_words	statement"
+			],
+			[
+				"te",
+				"text	param"
+			],
+			[
+				"sh",
+				"shifted_Dict	statement"
+			],
+			[
+				"bu",
+				"build_shift_dict"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"hand",
+				"handCopy	statement"
+			],
+			[
+				"key",
+				"keyStr	statement"
+			],
+			[
+				"ha",
+				"hand	statement"
+			],
+			[
+				"d",
+				"d	statement"
+			],
+			[
+				"inde",
+				"IndexError	class"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"int",
+				"intersect	function"
+			],
+			[
+				"in",
+				"insert	function"
+			],
+			[
+				"Ge",
+				"getY"
+			],
+			[
+				"G",
+				"getY	function"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"swa",
+				"swapSort	function"
+			],
+			[
 				"for",
 				"format	function"
 			],
@@ -28,16 +304,8 @@
 				"ps4b	module"
 			],
 			[
-				"get",
-				"getWordScore	function"
-			],
-			[
 				"el",
 				"else"
-			],
-			[
-				"hand",
-				"HAND_SIZE	statement"
 			],
 			[
 				"deal",
@@ -74,10 +342,6 @@
 			[
 				"le",
 				"len	function"
-			],
-			[
-				"ret",
-				"return	keyword"
 			],
 			[
 				"how",
@@ -119,24 +383,8 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "lecture_9/linearSearch.py",
-			"settings":
-			{
-				"buffer_size": 235,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "MITCS.sublime-project",
-			"settings":
-			{
-				"buffer_size": 465,
-				"line_ending": "Unix"
-			}
-		}
 	],
-	"build_system": "Anaconda Python Builder",
+	"build_system": "",
 	"build_system_choices":
 	[
 		[
@@ -167,10 +415,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "",
+		"height": 196.0,
+		"last_filter": "goto ",
 		"selected_items":
 		[
+			[
+				"goto ",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"ana o",
+				"Anaconda: Goto object definition"
+			],
 			[
 				"Snippet: ",
 				"Snippet: docStr"
@@ -294,10 +550,35 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Han/Documents/Courses/MIT_CS"
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/problemset_7"
 	],
 	"file_history":
 	[
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/problemset_7/test_pset7.py",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/problemset_7/ps7_skeleton.py",
+		"/C/Users/IBM_ADMIN/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/IBM_ADMIN/.ipython/profile_default/ipython_config.py",
+		"/C/Users/IBM_ADMIN/.jupyter/jupyter_notebook_config.py",
+		"/C/Users/IBM_ADMIN/.jupyter/jupyter_qtconsole_config.py",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/problemset_6/ps6.py",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/lecture_12/primeGen.py",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/lecture_12/genprimeUser.py",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/lecture_12/genPrimes3.py",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/lecture_12/primegen_answer.py",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/lecture_12/multiple.py",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/lecture_12/files_finger_exercises_L12_hand.py",
+		"/C/Users/IBM_ADMIN/.jupyter/custom/custom.css",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/lecture_12/spells.py",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/lecture_11/queu.py",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/lecture_11/intset.py",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/lecture_11/clock.py",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/lecture_11/coordinate.py",
+		"/C/Users/IBM_ADMIN/.ipython/profile_default/startup/README",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/problemset_5/problem_6_1.py",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/lecture_10/l10_p3.py",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/lecture_9/linearSearch.py",
+		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/MITCS.sublime-project",
 		"/C/Users/IBM_ADMIN/Documents/Courses/MIT-CS-6.00.1x/lecture_9/program1.py",
 		"/C/Users/Han/Desktop/GitHubLog.txt",
 		"/D/Users/Han/Documents/Courses/MIT_CS/Quiz_1/satisfiesF.py",
@@ -401,31 +682,7 @@
 		"/D/Users/Han/Documents/Python Scripts/vingere.py",
 		"/D/Users/Han/Documents/Python Scripts/testarg.py",
 		"/D/Users/Han/Documents/Python Scripts/Various Scripts.sublime-project",
-		"/D/Users/Han/Documents/Python Scripts/a",
-		"/D/Users/Han/Documents/Python Scripts/pynetstat.py",
-		"/D/Users/Han/Documents/IPython Notebooks/Machine learning/test",
-		"/D/Users/Han/Documents/GitHub/IPython-notebook-extensions/setup.py",
-		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/Percolate/src/Percolate/Percolation.java",
-		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/Percolate/src/Percolate/Main.java",
-		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/Percolate/src/Percolate/Percolates.java",
-		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/Javatar/Default (Windows).sublime-keymap",
-		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/Percolate/src/Percolate/Percolate/Percolation.java",
-		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/Percolate/Percolate.sublime-project",
-		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/JavatarDemo/src/javatar/simple/demo/Main.java",
-		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/algoritms.sublime-project",
-		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/Javatar.sublime-settings",
-		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/Javatar/Javatar.sublime-settings",
-		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/JavatarDemo/src/javatar/simple/demo/TestAlgs4.java",
-		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/lib/algs4/java-algs4.bat",
-		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/JavatarDemo/src/javatar/simple/demo/HelloWorld.java",
-		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Installed Packages/Javatar.sublime-package",
-		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/User/JavaSE8.javatar-packages",
-		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/lib/path",
-		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/Javatar/README.md",
-		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/algs4/java-algs4.bat",
-		"/D/Users/Han/AppData/Roaming/Sublime Text 3/Packages/Javatar/Developers/Proto.javatar-packages",
-		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/algs4/test.bat",
-		"/D/Users/Han/Documents/IPython Notebooks/Algoritms (course)/padje.txt"
+		"/D/Users/Han/Documents/Python Scripts/a"
 	],
 	"find":
 	{
@@ -443,6 +700,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"al",
+			"ac",
+			"font",
+			"bestShift",
+			"old_count",
+			"\\\\",
+			"\\",
+			"size",
+			"font",
+			"search3",
 			"S[",
 			"S[0]",
 			"S",
@@ -543,6 +810,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"/",
 			";\\n",
 			" ",
 			"]\\n",
@@ -567,74 +835,14 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "lecture_9/linearSearch.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 235,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								140,
-								140
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"side_bar_folders_auto_load_folder": 1,
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "MITCS.sublime-project",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 465,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								264,
-								264
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -680,10 +888,10 @@
 		"height": 124.0
 	},
 	"pinned_build_system": "Anaconda Python Builder",
-	"project": "MITCS.sublime-project",
+	"project": "MITCS-laptopsetting.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -703,7 +911,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\IBM_ADMIN\\Documents\\Courses\\MIT-CS-6.00.1x\\MITCS-laptopsetting.sublime-project"
+				"D:\\Users\\Han\\Documents\\Python Scripts\\Various Scripts.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -720,15 +928,6 @@
 	"selected_group": 0,
 	"settings":
 	{
-		"last_automatic_layout":
-		[
-			[
-				0,
-				0,
-				1,
-				1
-			]
-		]
 	},
 	"show_minimap": true,
 	"show_open_files": false,

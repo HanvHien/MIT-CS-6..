@@ -5,7 +5,7 @@
 			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
 			"name": "Anaconda Python Builder",
 			"selector": "source.python",
-			"shell_cmd": "\"d:\\anaconda\\python\" -u \"$file\""
+			"shell_cmd": "\"C:\\Users\\IBM_ADMIN\\Anaconda2\" -u \"$file\""
 		}
 	],
 	"folders":
@@ -15,11 +15,11 @@
 			[
 				"problemset_4/ProblemSet4.zip"
 			],
-			"path": "D:\\Users\\Han\\Documents\\Courses\\MIT_CS"
+			"path": "C:\\Users\\Han\\Documents\\Courses\\MIT_CS"
 		}
 	],
 	"settings":
 	{
-		"python_interpreter": "d:\\anaconda\\python"
+		"python_interpreter": "C:\\Users\\IBM_ADMIN\\Anaconda2"
 	}
 }
